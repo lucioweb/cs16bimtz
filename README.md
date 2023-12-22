@@ -326,7 +326,6 @@ Exemplo: Cria-se a consulta 2ª Cia Fuz, que agrupará todos os conscritos class
 | 13 | 31/01/2023 |  RESULTADO   |        -      |      -     |     -       |        -     |     -     | 
 
  
- 
 <hr>
  
 ### 11 - DICAS 
