@@ -1,6 +1,6 @@
 Sistema de Acompanhamento da Seleção Complementar (SASC) - Guia do utilizador 👋
 
-### 1 - INTRODUÇÃO AO SASC
+### 1 - INTRODUÇÃO AO SASC 16
 Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar do 16º BI Mtz**. 
 
 O Sistema de Acompanhamento da Seleção Complementar (SASC) é uma ferramenta de gestão de pessoal desenvolvida para acompanhar as diversas fases da Seleção Complementar (OM/NPOR) e proporcionar apoio à tomada de decisão. O SASC consiste de um comjunto de formulários para o cadastramento dos dados do candidato (Conscrito/Al NPOR). O formulário do SASC que realiza a coleta de dados pessoais do candidato é a Ficha Digital de Entrevista (FDE); o que coleta os dados médicos do candidato é a Ficha de Informação Médica (FIM) e o que realiza a coleta das informações odontológicas do candidato é a Ficha de Informação Odontológica (FIO). Cada formulário é composto por um conjunto de abas que agrupam campos por afinidade.
